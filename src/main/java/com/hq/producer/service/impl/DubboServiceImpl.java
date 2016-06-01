@@ -30,11 +30,11 @@ public class DubboServiceImpl implements DubboService {
 		
 		u1.setName("qiang.meng");
 		u1.setAge(20);
-		u1.setSex("female");
+		u1.setSex("gentleman");
 
 		u2.setName("lihao.qiu");
 		u2.setAge(21);
-		u2.setSex("male");
+		u2.setSex("birds and beasts");
 
 		list.add(u1);
 		list.add(u2);
